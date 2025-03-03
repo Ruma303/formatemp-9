@@ -29,23 +29,31 @@ public class Main {
 //		}
 		//scanner.close();	
 		
+		// ----------------------------------------------------------------
+		
 		// DynamicArray
 		
-		DynamicArray a = new DynamicArray();
+//		DynamicArray a = new DynamicArray();
+//		
+//		a.add(10);
+//		a.add("Pizza");
+//		a.add(3.14);
+//		a.add(false);
+//		
+//		IO.println("L'array ha " + a.size() + " elementi:");
+//		a.list();
+//		
+//        a.set(3, 2.78);
+//        a.set(2, "Hamburger");
+//        a.remove(1);
+//        
+//    	a.list();
 		
-		a.add(10);
-		a.add("Pizza");
-		a.add(3.14);
-		a.add(false);
+    	// ----------------------------------------------------------------
 		
-		IO.println("L'array ha " + a.size() + " elementi:");
-		a.list();
 		
-        a.set(3, 2.78);
-        a.set(2, "Hamburger");
-        a.remove(1);
-        
-    	a.list();
+		DynamicArray libri = new DynamicArray(3);
+		
 		
 		
 	}
