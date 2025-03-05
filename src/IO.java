@@ -106,8 +106,6 @@ public class IO {
 		println(msg);
 		return getBoolean();
 	}
-	
-	
-	
-
 }
+
+

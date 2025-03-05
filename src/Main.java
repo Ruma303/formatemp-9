@@ -49,11 +49,6 @@ public class Main {
 //        
 //    	a.list();
 		
-    	// ----------------------------------------------------------------
-		
-		
-		DynamicArray libri = new DynamicArray(3);
-		
 		
 		
 	}
